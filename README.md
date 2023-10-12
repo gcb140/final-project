@@ -1,6 +1,6 @@
 ## Usage
 
-1. Launch the To-Do List Manager application by running `todo_list_manager.py`.
+1. Launch the To-Do List Manager application.
 2. Enter a task title in the "Enter a Task" field.
 3. Set the priority (e.g., low, medium, high) in the "Priority" field.
 4. Optionally, set a due date in the "Due Date" field.
